@@ -1,7 +1,7 @@
 # Vigenere
 
 In this challenge, we had to simply just take the text cipher and decrypt it, the key was also present in the question statement itself.<br>
-![The Image was fine](image.png)
+![s16141211032024](https://a.okmd.dev/md/672753ff2337b.png)
 
 Using the cipher and the key, it was easy for me to figure out a way to get the answer:
 #### Cipher text:
