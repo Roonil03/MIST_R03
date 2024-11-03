@@ -107,7 +107,7 @@ Ties: 77
 Try again. Your warrior (warrior 1) must win 100 times.
 ```
 
-### Third Strategy:
+#### Third Strategy:
 I was searching up ways to check and see if there was any way to make sure that a program will always win, and I found out a <i>Reddit</i> post that talked about a similar situation to mine. One of the comments in that post had this statement that I could try and use:
 ```
 JMP 0, <-5
