@@ -12,12 +12,12 @@ Initially I was unclear as to what corewars actually was, so I decided to look i
 When I originally saw the link, I opened up my WSL and started working.
 ![s16441611032024](https://a.okmd.dev/md/67275b0a385c0.png)
 
-when i first ran the command:
+When i first ran the command:
 ```
 nc saturn.picoctf.net 63406 < imp.red
 ```
 
-I was greated with the following next:
+I was greeted with the following next:
 ```
 ;redcode
 ;name Imp Ex
@@ -41,7 +41,7 @@ Try again. Your warrior (warrior 1) must lose all rounds, no ties.
 ```
 
 Naturally I was inclined to first see what was present in the RED file...<br>
-So i did `` cat imp.red`` and the following was the result:
+So i did ``cat imp.red`` and the following was the result:
 ```
 ;redcode
 ;name Imp Ex
