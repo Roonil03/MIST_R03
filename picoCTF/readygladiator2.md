@@ -8,7 +8,6 @@ Time to get the file again...
 wget https://artifacts.picoctf.net/c/281/imp.red
 ```
 ```
-roonil03@Roonil:~$ wget https://artifacts.picoctf.net/c/281/imp.red
 --2024-11-03 11:44:21--  https://artifacts.picoctf.net/c/281/imp.red
 Resolving artifacts.picoctf.net (artifacts.picoctf.net)... 54.192.18.125, 54.192.18.66, 54.192.18.81, ...
 Connecting to artifacts.picoctf.net (artifacts.picoctf.net)|54.192.18.125|:443... connected.
