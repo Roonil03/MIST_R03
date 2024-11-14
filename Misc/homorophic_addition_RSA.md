@@ -1,6 +1,6 @@
 # Implemention of homomorphic addition using RSA
 
-## What is Homorphic Encryption:
+## What is Homomorphic Encryption:
 Homomorphic encryption is a form of encryption that allows computations to be performed on encrypted data without first having to decrypt it. The resulting computations are left in an encrypted form which, when decrypted, result in an output that is identical to that produced had the operations been performed on the unencrypted data.
 
 ## What is RSA:
